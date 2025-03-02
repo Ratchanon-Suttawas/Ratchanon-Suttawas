@@ -51,13 +51,4 @@
 
 # 🌅 *I wish everyone happiness.* 🌄
 
-        @echo "##  Widgets แสดง Skills/Achievement" >> README.md
-        @echo "-  [โค้ด Widgets จาก Quine.sh]" >> README.md
-        @echo "" >> README.md
-        @echo " อัปเดตล่าสุด: $(date)" >> README.md
-        @echo "✅ README.md created successfully! 
-
-clean:
-        @echo " Cleaning up..."
-        @rm -f README.md
-        @echo "✅ Cleaned up!"*
+        Skills/Achievement
