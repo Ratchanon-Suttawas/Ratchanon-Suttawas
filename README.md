@@ -1,12 +1,14 @@
-# 👋 Hi! I'Am  *[DNT](https://GitHub.com/Ratchanon-Suttawas/)*  This is just my pseudonym.
-## Wellcome to my GitHub profile. 
-###  Wellcome to the World of cyber security.🌏
+# *This is just my little beginning.*
 
-## About me.🙋
-### What i am doing is Electrical and Electronic engineering.
+# *👋 Hi! I'Am  [DNT](https://GitHub.com/Ratchanon-Suttawas/)  This is just my pseudonym.*
+## *Wellcome to my GitHub profile.* 
+###  *Wellcome to the World of cyber security.🌏*
 
-# A topic called *Cyber Security*.
-### That is a topic that I am interested in and am seriously studying and researching to further develop and find vulnerabilities that may occur from code malfunctions. I hope we can discuss and exchange knowledge. If you are interested in the same thing, we are family. 🥰
+## *About me.🙋*
+### *What i am doing is Electrical and Electronic engineering.*
+
+# *A topic called Cyber Security.*
+### *That is a topic that I am interested in and am seriously studying and researching to further develop and find vulnerabilities that may occur from code malfunctions. I hope we can discuss and exchange knowledge. If you are interested in the same thing, we are family. 🥰*
          >> README.md
         @echo "##  โปรเจกต์ที่น่าสนใจ" >> README.md
         @echo "-  [ชื่อโปรเจกต์ 1] - [คำอธิบายโปรเจกต์ 1]  [ลิงก์โปรเจกต์ 1]" >> README.md
@@ -30,4 +32,4 @@
 clean:
         @echo " Cleaning up..."
         @rm -f README.md
-        @echo "✅ Cleaned up!"
+        @echo "✅ Cleaned up!"*
