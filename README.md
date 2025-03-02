@@ -1,15 +1,12 @@
-# About Me
+# 👋 Hi! I'Am  *[DNT](https://GitHub.com/Ratchanon-Suttawas/)*  This is just my pseudonym.
+## Wellcome to my GitHub profile. 
+###  Wellcome to the World of cyber security.🌏
 
-## สวัสดีครับ! ผม [DNT] 
-(https://GitHub.com/Ratchanon-Suttawas/)
-## ยินดีต้อนรับสู่โปรไฟล์ GitHub ของผม!
-### Welcome to Cyber security World.🌏
+## About me.🙋
+### What i am doing is Electrical and Electronic engineering.
 
-## เรื่องที่เกี่ยวกับผม
-### สิ่งที่ผมเป็นในตอนนี้คือนักพัฒนาซอฟต์แวร์, นักศึกษา ที่ศึกษาค้นคว้า เกี่ยวกับข้อผิดผลาดของ โค้ดที่อาจเป็นช่องโหว่ เพื่อพัฒนาต่อยอด ไม่ได้มีเจตนาใดๆ แอบแฝง
-
-## Cyber security. 
-### เป็นสิ่งที่ผมสนใจ และหวังว่าผู้คนที่สนใจในแบบเดียวกันนี้ เราจะสามารถแลกเปลี่ยนความรู้กันได้ 🥰
+# A topic called *Cyber Security*.
+### That is a topic that I am interested in and am seriously studying and researching to further develop and find vulnerabilities that may occur from code malfunctions. I hope we can discuss and exchange knowledge. If you are interested in the same thing, we are family. 🥰
          >> README.md
         @echo "##  โปรเจกต์ที่น่าสนใจ" >> README.md
         @echo "-  [ชื่อโปรเจกต์ 1] - [คำอธิบายโปรเจกต์ 1]  [ลิงก์โปรเจกต์ 1]" >> README.md
